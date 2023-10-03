@@ -4,8 +4,8 @@ plugins {
     id("com.github.weave-mc.weave-gradle") version "bcf6ab0279"
 }
 
-group = "club.maxstats.weave.examplemod"
-version = "1.0-SNAPSHOT"
+group = "club.maxstats.weave.playerscreenshot"
+version = "1.0"
 
 minecraft.version("1.8.9")
 
