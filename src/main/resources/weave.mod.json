@@ -1,0 +1,8 @@
+{
+  "entrypoints": [
+    "club.maxstats.weave.playerscreenshot.Main"
+  ],
+  "mixinConfigs": [
+    "weave.mixins.json"
+  ]
+}

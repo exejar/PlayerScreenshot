@@ -1,0 +1,6 @@
+{
+  "package": "club.maxstats.weave.playerscreenshot.mixin",
+  "mixins": [
+    "MixinRendererLivingEntity"
+  ]
+}
